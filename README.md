@@ -17,6 +17,28 @@ A full-stack MERN application for managing pet adoptions. Visitors can browse pe
 - Admin panel for reviewing and approving/rejecting applications
 - Automatic pet status updates when applications are approved
 
+## Demo / Preview
+
+Watch the application demo video:
+
+📹 **Demo Video:** [View on Google Drive](https://drive.google.com/file/d/1lxLtFn8kSEeQ3g8Ks5sJnBZCLBdljM3t/view?usp=sharing)
+
+### Embedded Preview
+
+<iframe src="https://drive.google.com/file/d/1lxLtFn8kSEeQ3g8Ks5sJnBZCLBdljM3t/preview" width="100%" height="480" allow="autoplay"></iframe>
+
+*Note: If the embedded preview doesn't work in your markdown viewer, please use the direct link above.*
+
+### Quick Preview
+
+The demo showcases:
+- Modern, responsive UI with smooth animations
+- Pet browsing with search and filtering capabilities
+- User authentication and registration flow
+- Adoption application submission process
+- Admin dashboard for pet and application management
+- Real-time status updates and notifications
+
 ## Project Structure
 
 ```
@@ -194,4 +216,3 @@ You can use these credentials to log in and access the admin dashboard. The scri
 - Admin routes require both authentication and admin role
 - Pet status automatically updates when applications are approved/rejected
 - Duplicate applications for the same pet by the same user are prevented
-
